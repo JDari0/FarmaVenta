@@ -1,0 +1,20 @@
+
+.col-sm-2 {
+    width: 10.5%;
+}
+
+/*CODIGO CSS IMPLEMENTADO*/
+
+#inputText3 { /*Para el ancho de los imput*/
+
+    width: 30%;
+}
+
+.fecha { /*Para que la fecha baje*/
+    display: block;
+    margin-top: 12px;
+}
+p {
+    margin-bottom:0rem !important;
+}
+

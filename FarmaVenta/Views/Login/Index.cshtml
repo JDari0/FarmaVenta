@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <title>Login</title>
+
+</head>
+
+<body style="background-image: url('/img/login2.jpeg'); background-size: cover; height:100vh;">
+
+    <div class="container-lg" style="margin-top: 30px;background-color:#f5eeee0d; margin-left:90px;">
+        <div class="row align-content-center">
+            <div class="col-md-6 offset-md-3 align-content-center" style="margin-top:200px">
+                <h5 class="card-title text-center" style="font-size:50px; color:royalblue;">Inicio de Sesion</h5>
+                <img src="/img/usuario.png" alt="usuario" class="img-user me-2" style="width: 250px; height: 250px; margin-left:150px;">
+            </div>
+            <div class="col-md-6 offset-md-3">
+                <form>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1" style="color: royalblue;">Usuario</label>
+                        <input type="text" class="form-control" id="usuario">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1" style="color: royalblue;">Contraseña</label>
+                        <input type="password" class="form-control" id="contrasena">
+                    </div>
+                    <button type="button" class="btn btn-primary" style="margin-left:220px;" onclick="validarLogin()">Iniciar Sesion</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    <script src="~/js/inicioSesion.js"></script>
+</body>
+
+</html>

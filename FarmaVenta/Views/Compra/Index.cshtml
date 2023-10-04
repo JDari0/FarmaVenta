@@ -1,0 +1,328 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- COMPRA -->
+
+<div class="container_comprar" id="containerComprar" style="margin: 15px 70px;">
+    <div class="container-lg mt-5">
+        <h2 class="text-center header">
+            Compra de productos
+            <img src="/img/compra.png" style="max-width: 8%; max-height: 8%;">
+        </h2>
+
+
+        <div class="row align-items-center">
+
+            <div class="mb-3 row">
+                <label for="num_documento" class="col-sm-2 col-form-label">Numero de factura:</label>
+                <div class="col-sm-5">
+                    <input type="text" class="form-control" id="num_documento" maxlength="10">
+                </div>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="fecha_compra" class="col-sm-2 col-form-label">Fecha de compra:</label>
+                <div class="col-sm-5">
+                    <input type="date" class="form-control" id="fecha_compra" />
+                </div>
+            </div>
+
+            <div class="mb-3 row">
+
+                <label for="name_proveedor" class="col-sm-2 col-form-label">Razon Social:</label>
+                <div class="col-sm-5">
+                    <select name="proveedor" id="selectProveedores" class="form-control">
+                        <option selected disabled>Seleccione proveedor</option>
+                        <!-- cargaremos dinamicamente los proveedores con javascript -->
+                    </select>
+                </div>
+
+                <div class="col-sm-5">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#proveedor">+</button>
+                </div>
+
+                <div class="modal fade" id="proveedor" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Proveedor</h5>
+                                <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+                            </div>
+
+                            <div class="modal-body">
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="recipient-name" class="col-form-label">R.U.C</label>
+                                        <input type="text" class="form-control" placeholder="" aria-label="ruc" id="ruc" onkeypress="return digitosPermitidosRuc(event)" onblur="rangoRuc(), limpiarRuc()" maxlength="13">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="recipient-name" class="col-form-label">Razon Social</label>
+                                        <input type="text" class="form-control" placeholder="" aria-label="nombre" id="nombre" onkeypress="return soloRazonSocial(event)" maxlength="30" oncopy="return false" oncut="return false" onpaste="return false" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="recipient-name" class="col-form-label">Telefono</label>
+                                        <input type="text" class="form-control" placeholder="" aria-label="telefono" id="telefono" onkeypress="return soloNumTelefono(event)" maxlength="10" oncopy="return false" oncut="return false" onpaste="return false">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="recipient-name" class="col-form-label">Direccion</label>
+                                        <input type="text" class="form-control" placeholder="" aria-label="direccion" id="direccion" maxlength="50" oncopy="return false" oncut="return false" onpaste="return false" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="recipient-name" class="col-form-label">Email</label>
+                                        <input type="email" class="form-control" placeholder="" aria-label="email" id="email" onblur="validarCorreo()" maxlength="30" oncopy="return false" oncut="return false" onpaste="return false" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                                    </div>
+
+                                </form>
+                            </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-success" id="btnReset" onclick="guardarProveedor()">Guardar proveedor</button>
+                                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Salir</button>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label for="direccion" class="col-sm-2 col-form-label">Direccion:</label>
+                    <div class="col-sm-5">
+                        <label for="direccionProveedor" class="col-sm-5 col-form-label" id="direccionProveedor"></label>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label for="telefono" class="col-sm-2 col-form-label">Telefono:</label>
+                    <div class="col-sm-5">
+                        <label for="telefonoProveedor" class="col-sm-5 col-form-label" id="telefonoProveedor"></label>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label for="correo" class="col-sm-2 col-form-label">Correo:</label>
+                    <div class="col-sm-5">
+                        <label for="telefonoProveedor" class="col-sm-10 col-form-label" id="correoProveedor"></label>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="mb-3 row">
+                <label for="producto" class="col-sm-2 col-form-label">Producto:</label>
+                <div class="col-sm-5">
+                    <select name="producto" class="form-control" id="selectProducto" onchange="">
+                        <option selected disabled>Seleccione producto</option>
+                        <!-- cargaremos dinamicamente los productos con javascript -->
+                    </select>
+                </div>
+
+                <div class="col-sm-5">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Compras">+</button>
+                </div>
+
+                <div class="modal fade" id="Compras" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Producto</h5>
+                                <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+                            </div>
+
+                            <div class="modal-body">
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="codigo" class="col-form-label">Codigo</label>
+                                        <input type="text" class="form-control" placeholder="" aria-label="codigo" id="codigo" onkeypress="return soloNumLet(event)" onblur="numDigPermitidos()" maxlength="6" oncopy="return false" onpaste="return false" oncut="return false">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="descripcion" class="col-form-label">Descripcion</label>
+                                        <input type="text" class="form-control" placeholder="" aria-label="descripcion" id="descripcion" onkeypress="return soloNumLet(event)" oncopy="return false" oncut="return false" maxlength="50">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="medida" class="col-sm-2 col-form-label">Medida:</label>
+                                        <div class="col-sm-12">
+                                            <select name="medida" class="form-control" id="medida">
+                                                <option selected disabled>Seleccione una opcion</option>
+                                                <option value="1">Gramo(g)</option>
+                                                <option value="2">Miligramo(mg)</option>
+                                                <option value="3">Tableta</option>
+                                                <option value="3">mL-cc(mililitro)</option>
+                                                <option value="3">lt(litro)</option>
+                                                <option value="3">dl(decilitro)</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="valor" class="col-form-label">valor</label>
+                                        <input type="text" class="form-control" placeholder="" aria-label="valor" id="valor" onkeypress="return digitosPermitidosValor(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="10">
+                                    </div>
+
+                                </form>
+                            </div>
+
+                            <div class="modal-footer">
+
+                                <button type="button" class="btn btn-success" id="btnReset" onclick="guardarProducto()">Guardar producto</button>
+                                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Salir</button>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="iva" class="col-sm-2 col-form-label">IVA:</label>
+                <div class="col-sm-5">
+                    <select name="selectIVA" class="form-control" id="selectIVA" onchange="">
+                        <option selected disabled> Seleccione IVA </option>
+                        <option value="doce"> 12</option>
+                        <option value="cero"> 0</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="codigoProducto" class="col-sm-2 col-form-label">Codigo del producto:</label>
+                <div class="col-sm-5">
+                    <label for="codigoProducto" class="col-sm-2 col-form-label" id="codigoProducto"></label>
+                </div>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="cantidad" class="col-sm-2 col-form-label">Cantidad:</label>
+                <div class="col-sm-5">
+                    <input type="number" class="form-control" id="cantidad">
+                </div>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="precio" class="col-sm-2 col-form-label">Precio:</label>
+                <div class="col-sm-5">
+                    <input type="number" class="form-control" id="precio">
+                </div>
+            </div>
+
+
+            <div class="form-group d-flex justify-content-md-start mt-5">
+                <button type="button" class="btn btn-success m-2" onclick="agregarItem()">Agregar Item</button>
+            </div>
+
+            <table id="compras" class="table table-primary"></table>
+
+
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                <button class="btn btn-success me-md-2" type="button" id="guardarCompra" onclick="agregarCompra()">Guardar</button>
+                @*<button class="btn btn-secondary" type="button">Salir</button>*@
+            </div>
+
+
+            <table class="table table-primary table-bordered mt-4">
+
+                <thead id="cabecera" class="thead-default table-success ">
+
+                </thead>
+
+                <tbody id="pantalla">
+                </tbody>
+
+            </table>
+
+            <div class="modal fade" id="CargarCompras" tabindex="-1" aria-labelledby="CargarCompras" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Detalle Compra</h5>
+                            <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+                        </div>
+
+                        <div class="modal-body">
+                            <form>
+
+                                <div class="mb-3 row">
+                                    <label for="numeroFacturaCC" class="col-sm-2 col-form-label">Numero de Factura:</label>
+                                    <div class="col-sm-5">
+                                        <label for="numeroFacturaCC" class="col-sm-12 col-form-label" id="numeroFacturaCC"></label>
+                                    </div>
+
+
+                                    <label for="fechaCompraCC" class="col-sm-2 col-form-label">Fecha de compra:</label>
+                                    <div class="col-sm-3">
+                                        <label for="fechaCompraCC" class="col-sm-7 col-form-label" id="fechaCompraCC"></label>
+                                    </div>
+
+                                </div>
+
+
+                                <div class="mb-3 row">
+                                    <label for="nombreProveedorCC" class="col-sm-2 col-form-label">Razon social:</label>
+                                    <div class="col-sm-5">
+                                        <label for="nombreProveedorCC" class="col-sm-12 col-form-label" id="nombreProveedorCC"></label>
+                                    </div>
+
+                                    <label for="rucProveedorCC" class="col-sm-2 col-form-label">RUC:</label>
+                                    <div class="col-sm-3">
+                                        <label for="rucProveedorCC" class="col-sm-7 col-form-label" id="rucProveedorCC"></label>
+                                    </div>
+                                </div>
+
+
+                                <div class="mb-3 row">
+                                    <label for="direccionProveedorCC" class="col-sm-2 col-form-label">Direccion proveedor:</label>
+                                    <div class="col-sm-5">
+                                        <label for="direccionProveedorCC" class="col-sm-12 col-form-label" id="direccionProveedorCC"></label>
+                                    </div>
+
+
+                                    <label for="telefonoProveedorCC" class="col-sm-2 col-form-label">Telefono:</label>
+                                    <div class="col-sm-3">
+                                        <label for="telefonoProveedorCC" class="col-sm-7 col-form-label" id="telefonoProveedorCC"></label>
+                                    </div>
+                                </div>
+
+
+
+                                <div class="mb-3 row">
+                                    <label for="emailProveedorCC" class="col-sm-2 col-form-label">Email:</label>
+                                    <div class="col-sm-5">
+                                        <label for="emailProveedorCC" class="col-sm-12 col-form-label" id="emailProveedorCC"></label>
+                                    </div>
+                                </div>
+
+                                <hr>
+                                <hr>
+
+                                <table id="comprasM" class="table table-primary"></table>
+
+
+                            </form>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Salir</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<script src="~/js/jquery-3.2.1.min.js"></script>
+<script src="~/js/compra.js"></script>

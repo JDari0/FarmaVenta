@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- CLIENTES -->
+<div class="container_clientes" id="containerClientes">
+    <div class="container-lg mt-5">
+        <h2 class="text-center header">
+            Gestionar Clientes
+            <img src="/img/cliente.png" alt="cliente" class="img-cliente" width="100">
+        </h2>
+
+        <div class="row mt-5">
+            <div class="col-md-6 offset-md-3">
+
+                <form class="form" method="post">
+
+                    <div class="form-group d-flex justify-content-end mt-5">
+                        <button type="button" class="btn btn-primary mr-4" onclick="buscarCliente()">Buscar Cliente por Cedula</button>
+                    </div>
+
+                    <fieldset>
+                        <div class="row">
+                            <div class="col-cedula">
+                                <label for="cedula">Cédula:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="cedula" id="cedula" onkeypress="return soloNumeros(event)" oncopy="return false" oncut="return false" onblur="limpiarCedula(), rangoCedula()" maxlength="10">
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="nombre">Nombre:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="nombre" id="nombre" onkeypress="return soloLetras(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="30" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                            </div>
+                            <div class="col">
+                                <label for="apellido">Apellido:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="apellido" id="apellido" onkeypress="return soloLetras(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="30" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="telefono">Teléfono:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="telefono" id="telefono" onkeypress="return soloNumeros(event)" oncopy="return false" onpaste="return false" oncut="return false" onblur="rangoTelefono()" maxlength="10">
+                            </div>
+                            <div class="col">
+                                <label for="email">Email:</label>
+                                <input type="email" class="form-control" placeholder="" aria-label="email" id="email" oncopy="return false" onpaste="return false" oncut="return false" onblur="validarEmail()" maxlength="50" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="direccion">Dirección:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="direccion" id="direccion" onkeypress="return soloDireccion(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="50" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="idd" style="display:none; opacity:0">
+                        </div>
+
+                        <div class="form-group d-flex justify-content-center mt-5">
+                            <button type="button" class="btn btn-primary m-2" onclick="guardarCliente()">Guardar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="modificarCliente()">Modificar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="eliminarCliente()">Eliminar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="cancelar()">Cancelar</button>
+                        </div>
+
+                        <div>
+                            <div class="form-group d-flex justify-content-center mt-5">
+                                <button type="button" class="btn btn-primary" onclick="listarCliente()">Mostrar Clientes</button>
+                            </div>
+
+                            <table class="table table-primary table-bordered mt-4">
+                                <thead id="cabecera" class="thead-default table-success">
+
+                                </thead>
+
+                                <tbody id="pantalla">
+                                </tbody>
+
+                            </table>
+
+                        </div>
+
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/cliente.js"></script>
+<script src="~/js/jquery-3.2.1.min.js"></script>

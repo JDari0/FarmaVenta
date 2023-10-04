@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INICIO</title>
+    <!-- BOX ICONS -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href='/Content/bootstrap.min.css'>
+    <!-- CUSTOM CSS -->
+    <link rel="stylesheet" href="/Content/inicio.css">
+    <!-- CUSTOM JS -->
+    <script src="/js/inicio.js" defer></script>
+
+
+</head>
+
+<body style="background: #eee" onload="desabilitarOpciones();">
+    @*onload=" cargarClientes(); cargarVendedor(); desabilitarOpciones(); cargarProductos(); cargarProveedores(); CargarCompras(); "*@
+    <div class="contenedor-division">
+        <div class="wrapper">
+            <nav class="navbar navbar-expand-md navbar-light py-1">
+                <div class="container-fluid" style="background: center;">
+                    <div>
+                        <a href="" class="navbar-brand fw-bold" style="font-family: Verdana; font-size:25px;color:royalblue;">
+                            <img src="/img/logo2.png" class="" style="height:80px; margin: 30px auto 30px 50px;">
+                        </a>
+                    </div>
+                    <div style=" width: 100%; color: royalblue; font-weight: bold; font-size: 18px;" class=" d-flex justify-content-end" id="currentRol"></div>
+                    <ul class="nav ms-auto">
+                        <li class="nav-item dropstart">
+                            <a class="nav-link text-dark ps-3 pe-1" href="#" id="navbarDropdown" role="button"
+                               data-bs-toggle="dropdown" onclick="nombreUsuario()">
+                                <img src="/img/user.png" alt="user" class="img-user">
+                            </a>
+                            <div class="dropdown-menu mt-2 pt-0" aria-labelledby="navbarDropdown">
+                                <div class="d-flex p-3 border-bottom mb-2">
+                                    <img src="/img/user.png" alt="user" class="img-user me-2">
+                                    <div class="d-block">
+                                        <p class="fw-bold m-3 lh-1" id="currentUser"></p>
+                                    </div>
+                                </div>
+                                <div class="dropdown-item" href="#">
+                                    <button class="btn btn-danger" id="btnLogout" onclick="cierreLogin()">Cerrar sesion</button>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="menu-dashboard">
+                <!-- TOP MENU -->
+                <div class="top-menu">
+                    <div class="logo">
+                        <span>BIENVENIDO</span>
+                    </div>
+                    <div class="toggle">
+                        <i class='bx bx-menu'></i>
+                    </div>
+                </div>
+                <!-- MENU -->
+                <div class="menu">
+                    <div class="enlace">
+                        <i class="bx">
+                            <img src="/img/mantenimiento.png" alt="img_mantenimiento"
+                                 style="height: 55px; ">
+                        </i>
+                        <span><a href=/Usuario/Usuario.html>Mantenimiento</a></span>
+                    </div>
+                    <div class="sub-enlace ">
+                        <div class="sub" id="div_usuarios">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Usuarios", "Index", "Usuario")</label>
+                        </div>
+                        <div class="sub" id="div_clientes">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Clientes", "Index", "Cliente")</label>
+                        </div>
+                        <div class="sub" id="div_proveedores">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Proveedor", "Index", "Proveedor")</label>
+                        </div>
+                        <div class="sub" id="div_productos">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Producto", "Index", "Producto")</label>
+                        </div>
+                    </div>
+                    <div class="enlace">
+                        <i class="bx"> <img src="/img/ventas.png" alt="img_mantenimiento" style="height: 55px; "></i>
+                        <span><a href="">Procesos</a></span>
+                    </div>
+                    <div class="sub-enlace ">
+                        <div class="sub" id="div_comprar">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Compras", "Index", "Compra")</label>
+                        </div>
+                        <div class="sub" id="div_facturar">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Factura", "Index", "Factura")</label>
+                        </div>
+                    </div>
+                    <div class="enlace">
+                        <i class="bx"><img src="/img/reporte.png" alt="ima_reportes" style="height: 55px; "></i>
+                        <span><a href="">Reportes</a></span>
+                    </div>
+                    <div class="sub-enlace ">
+
+                        <div class="sub" id="div_cierreCaja">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Cierre de caja", "Index", "CierreCaja")</label>
+                        </div>
+                        <div class="sub" id="div_kardex">
+                            <label onclick="opcionSeleccionada(this)">@Html.ActionLink("Kardex", "Index", "Kardex")</label>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <main class="espa">
+
+            @RenderBody()
+
+        </main>
+    </div>
+
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="/js/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

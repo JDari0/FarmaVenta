@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!--  PROVEEDORES-->
+<div class="container_proveedores" id="containerProveedores">
+    <div class="container-lg mt-5">
+        <h2 class="text-center header">
+            Gestionar Proveedores
+            <img src="/img/proveedor.png" alt="cliente" class="img-proveedor" width="100">
+        </h2>
+
+        <div class="row mt-5">
+            <div class="col-md-6 offset-md-3">
+
+                <form class="form" method="post">
+                    <div class="form-group d-flex justify-content-end mt-5">
+                        <button type="button" class="btn btn-primary mr-4" onclick="buscarProveedor()">Buscar Proveedor por RUC </button>
+                    </div>
+                    <fieldset>
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="cedula">R.U.C:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="ruc" id="ruc" onkeypress="return soloNumeros(event)" onblur="rangoRuc(), limpiarRuc()" maxlength="13">
+
+                            </div>
+                            <div class="col">
+                                <label for="nombre">Razon Social:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="nombre" id="nombre" onkeypress="return soloRazonSocial(event)" maxlength="30" oncopy="return false" oncut="return false" onpaste="return false" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="telefono">Teléfono:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="telefono" id="telefono" onkeypress="return soloNumeros(event)" maxlength="10" oncopy="return false" oncut="return false" onpaste="return false">
+                            </div>
+                            <div class="col">
+                                <label for="email">Email:</label>
+                                <input type="email" class="form-control" placeholder="" aria-label="email" id="email" onblur="validarCorreo()" maxlength="30" oncopy="return false" oncut="return false" onpaste="return false" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="direccion">Dirección:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="direccion" id="direccion" maxlength="50" oncopy="return false" oncut="return false" onpaste="return false" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="idd" style="display:none; opacity:0">
+                        </div>
+
+                        <div class="form-group d-flex justify-content-center mt-5">
+                            <button type="button" class="btn btn-primary m-2" onclick="guardarProveedor()">Guardar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="modificarProveedor()">Modificar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="eliminarProveedor()">Eliminar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="cancelar()">Cancelar</button>
+
+                        </div>
+
+                        <div>
+                            <div class="form-group d-flex justify-content-center mt-5">
+                                <button type="button" class="btn btn-primary" onclick="listarProveedor()">Mostrar Proveedores</button>
+                            </div>
+
+                            <table class="table table table-sm table-striped table-hover table-bordered border-primary mt-4">
+                                <thead id="cabeceraP" class="table-success">
+
+                                </thead>
+
+                                <tbody id="pantallaP">
+                                </tbody>
+                            </table>
+
+                        </div>
+
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/proveedores.js"></script>
+<script src="~/js/jquery-3.2.1.min.js"></script>

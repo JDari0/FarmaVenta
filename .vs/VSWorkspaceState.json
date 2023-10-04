@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FarmaVenta",
+    "\\FarmaVenta\\Controllers",
+    "\\FarmaVenta\\Metodos",
+    "\\FarmaVenta\\Models",
+    "\\FarmaVenta\\Views",
+    "\\FarmaVenta\\Views\\Login"
+  ],
+  "SelectedNode": "\\FarmaVenta\\Views\\Login\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

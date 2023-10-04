@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- PRODUCTOS -->
+<div class="container_productos" id="containerProductos">
+    <div class="container-lg mt-5">
+        <h2 class="text-center header">
+            Gestionar Productos
+            <img src="/img/producto.png" alt="producto" class="img-producto" width="100">
+        </h2>
+
+        <div class="row mt-5">
+            <div class="col-md-6 offset-md-3">
+
+                <form class="form" method="post">
+
+                    <div class="form-group d-flex justify-content-end mt-5">
+                        <button type="button" class="btn btn-primary mr-4" onclick="buscarProducto()">Buscar producto por descripcion</button>
+                    </div>
+
+                    <fieldset>
+                        <div class="row">
+                            <div class="col">
+                                <label for="cedula">Codigo:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="codigo" id="codigo" onkeypress="return soloNumLet(event)" onblur="numDigPermitidos()" maxlength="6" oncopy="return false" onpaste="return false" oncut="return false">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="nombre">Descripción:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="descripcion" id="descripcion" onkeypress="return soloNumLet(event)" oncopy="return false" oncut="return false" maxlength="50">
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="medida" class="col-sm-2 col-form-label">Medida:</label>
+                                <div class="col-sm-12">
+                                    <select name="medida" class="form-control" id="medida">
+                                        <option selected disabled>Seleccione una opcion</option>
+                                        <option value="1">Gramo(g)</option>
+                                        <option value="2">Miligramo(mg)</option>
+                                        <option value="3">Tableta</option>
+                                        <option value="3">mL-cc(mililitro)</option>
+                                        <option value="3">lt(litro)</option>
+                                        <option value="3">dl(decilitro)</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="row">
+                            <div class="col">
+                                <label for="telefono">Valor:</label>
+                                <input type="text" class="form-control" placeholder="" aria-label="valor" id="valor" onkeypress="return digitosPermitidosValor(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="10">
+                            </div>
+
+                        </div>
+
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="idd" style="display:none; opacity:0">
+                        </div>
+
+                        <div class="form-group d-flex justify-content-center mt-5">
+                            <button type="button" class="btn btn-primary m-2" onclick="guardarProducto()">Guardar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="modificarProducto()">Modificar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="eliminarProducto()">Eliminar</button>
+                            <button type="button" class="btn btn-primary m-2" onclick="cancelar()">Cancelar</button>
+                        </div>
+
+                        <div>
+                            <div class="form-group d-flex justify-content-center mt-5">
+                                <button type="button" class="btn btn-primary" onclick="listarProducto()">Mostrar Productos</button>
+                            </div>
+
+                            <table class="table table-primary table-bordered mt-4">
+                                <thead id="cabecera" class="thead-default table-success">
+
+                                </thead>
+
+                                <tbody id="pantalla">
+                                </tbody>
+
+                            </table>
+
+                        </div>
+
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/productos.js"></script>
+<script src="~/js/jquery-3.2.1.min.js"></script>

@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- KARDEX -->
+<div class="container_kardex" id="containerKardex">
+    <div class="container-lg mt-5">
+
+        <h2 class="text-center header" style="margin-bottom: 30px;">
+            Kardex
+            <img src="/img/reporte.png" style="max-width: 5%; max-height: 5%;">
+        </h2>
+
+        <div class="col-md-11 offset-md-0">
+
+            <div class="row g-3 align-items-center">
+
+                <div class="mb-3 row">
+
+                    <label for="producto" class="col-sm-1 col-form-label">Producto:</label>
+                    <div class="col-sm-3">
+                        <select name="producto" class="form-control" id="selectProducto" onchange="">
+                            <option selected disabled>Seleccione producto</option>
+                            <!-- cargaremos dinamicamente los productos con javascript -->
+                        </select>
+                    </div>
+
+                    <table class="table table-primary table-bordered mt-4">
+                        <thead id="cabecera" class="thead-default table-success"></thead>
+
+                        <tbody id="pantalla"></tbody>
+                    </table>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-11 offset-md-0">
+            <H2> Inventario actual: </H2>
+            <div class="col-sm-3">
+                <h2 id="inventarioA"></h2>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="~/js/jquery-3.2.1.min.js"></script>
+<script src="~/js/kardex.js"></script>
+

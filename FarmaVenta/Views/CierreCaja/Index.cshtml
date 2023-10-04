@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- CIERRE DE CAJA -->
+<div class="container_facturar" id="containerFacturar">
+    <div class="container-lg mt-5">
+
+        <h2 class="text-center header" style="margin-bottom: 30px;">
+            Cierre de caja
+            <img src="/img/verificar.png" style="max-width: 6%; max-height: 6%;">
+        </h2>
+
+        <div class="col-md-12 offset-md-0">
+
+            <div class="row g-3 align-items-center">
+
+                <div class="mb-3 row">
+
+                    <label for="fechaEmision" class="col-sm-2 col-form-label">Fecha de emision:</label>
+                    <div class="col-sm-2">
+                        <label for="fechaEmision" class="col-sm-12 col-form-label" id="fechaEmision"></label>
+                    </div>
+
+                    <label for="nombreVendedor" class="col-sm-2 col-form-label">Nombre vendedor:</label>
+                    <div class="col-sm-2">
+                        <label for="nombreVendedor" class="col-sm-9 col-form-label" id="nombreVendedor"></label>
+                    </div>
+
+                </div>
+
+
+                <table id="tablaFactura" class="table table-primary"></table>
+
+               
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/jquery-3.2.1.min.js"></script>
+<script src="~/js/CierreCaja.js"></script>

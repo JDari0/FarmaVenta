@@ -1,0 +1,624 @@
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.pdb
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.pdb
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.pdb
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\Carolina\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.pdb
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\usuario\source\repos\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.pdb
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\Usuario\Downloads\FarmaVenta\FarmaVenta\obj\Debug\FarmaVenta.pdb
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\Usuario\Downloads\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.pdb
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\FarmaVenta.dll.config
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\FarmaVenta.pdb
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\csc.exe
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\csc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\csc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\csi.exe
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\csi.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\csi.rsp
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.AppContext.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Console.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\vbc.exe
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\vbc.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\vbc.rsp
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Helpers.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Mvc.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Razor.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.xml
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Webpages.Razor.xml
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Helpers.xml
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\System.Web.Mvc.xml
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.csproj.AssemblyReference.cache
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.csproj.CoreCompileInputs.cache
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.csproj.CopyComplete
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.dll
+C:\Users\Janeth\source\repos\FarmaVenta janeth\FarmaVenta janeth\FarmaVenta\obj\Debug\FarmaVenta.pdb

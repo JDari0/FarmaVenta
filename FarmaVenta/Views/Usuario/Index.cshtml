@@ -1,0 +1,83 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- USUARIOS -->
+<div class="container_usuarios" id="containerUsuarios">
+    <div class="container-lg mt-5">
+        <div class="row mt-5">
+            <div class="col-md-6 offset-md-3">
+                <h2 class="card-title text-center">
+                    Gestionar Usuarios
+                </h2>
+                <form class="form">
+                    <div class="form-group d-flex justify-content-end mt-5">
+                        <button type="button" class="btn btn-primary mr-4" onclick="buscarUsuario()">Buscar Usuario por Cedula</button>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Cedula Identidad:</label>
+                        <input type="text" class="form-control" id="cedula" onkeypress="return soloNumeros(event)" oncopy="return false" oncut="return false" onblur="limpiarCedula(), rangoCedula()" maxlength="10">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Nombre:</label>
+                        <input type="text" class="form-control" id="nombre" onkeypress="return soloLetras(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="30" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Apellido:</label>
+                        <input type="text" class="form-control" id="apellido" onkeypress="return soloLetras(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="30" onkeyup="espacios(this), this.value=this.value.replace(/^\s+/,'');">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleFormControlSelect2">Rol:</label>
+                        <select class="form-control" id="rol">
+                            <option selected disabled>Seleccione una opcion</option>
+                            <option value="0">SuperAdmin</option>
+                            <option value="1">Administrador</option>
+                            <option value="2">Vendedor</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Contraseña:</label>
+                        <input type="password" class="form-control" id="clave" onkeypress="return soloNumLetras(event)" oncopy="return false" onpaste="return false" oncut="return false" maxlength="30" onkeyup="this.value=this.value.replace(/^\s+/,'');">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="idd" style="display:none; opacity:0">
+                    </div>
+
+                    <div class="form-group d-flex justify-content-center mt-5">
+                        <button type="button" class="btn btn-primary m-2" onclick="guardarUsuario()">Guardar</button>
+                        <button type="button" class="btn btn-primary m-2" onclick="modificarUsuario()">Modificar</button>
+                        <button type="button" class="btn btn-primary m-2" onclick="eliminarUsuario()">Eliminar</button>
+                        <button type="button" class="btn btn-primary m-2" onclick="cancelar()">Cancelar</button>
+                    </div>
+                </form>
+                <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 20px;">
+                    <button class="btn btn-primary" type="button" onclick="listarUsuario()">Mostrar Usuarios</button>
+                </div>
+
+                <table class="table table-primary table-bordered mt-4">
+
+                    <thead id="cabecera" class="thead-default table-success ">
+
+                    </thead>
+
+                    <tbody id="pantalla">
+                    </tbody>
+
+                </table>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/js/usuario.js"></script>
+<script src="~/js/jquery-3.2.1.min.js"></script>
+
+
+
+
